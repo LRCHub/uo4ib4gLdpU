@@ -1,0 +1,312 @@
+{
+  "version": 1,
+  "base_track": "Baby you",
+  "base_artist": "有華",
+  "createdAt": "2026-02-23T07:24:37.301384Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ooh Baby (You Know That I Love You)",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/01_Ooh_Baby_(You_Know_That_I_Love_You)_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Somebody Loves You Baby (You Know Who It Is)",
+      "artist": "Patti LaBelle",
+      "has_synced": true,
+      "path": "select/02_Somebody_Loves_You_Baby_(You_Know_Who_It_Is)_Patti_LaBelle.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baby You Don't Know",
+      "artist": "Crazy Town feat. Fann",
+      "has_synced": false,
+      "path": "select/03_Baby_You_Don't_Know_Crazy_Town_feat._Fann.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baby You Don't Know (feat. Fann)",
+      "artist": "Crazy Town",
+      "has_synced": false,
+      "path": "select/04_Baby_You_Don't_Know_(feat._Fann)_Crazy_Town.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby You Don't Wanna Know",
+      "artist": "Sum 41",
+      "has_synced": true,
+      "path": "select/05_Baby_You_Don't_Wanna_Know_Sum_41.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby You Don't Wanna Know (Album Version)",
+      "artist": "Sum 41",
+      "has_synced": false,
+      "path": "select/06_Baby_You_Don't_Wanna_Know_(Album_Version)_Sum_41.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baby You Know",
+      "artist": "Bell, Book & Candle",
+      "has_synced": false,
+      "path": "select/07_Baby_You_Know_Bell,_Book_&_Candle.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baby You Were There",
+      "artist": "TV Girl",
+      "has_synced": true,
+      "path": "select/08_Baby_You_Were_There_TV_Girl.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Baby You Have Travelled For Miles Without Love In Your Eyes",
+      "artist": "I Break Horses",
+      "has_synced": false,
+      "path": "select/09_Baby_You_Have_Travelled_For_Miles_Without_Love_In_Your_Eyes_I_Break_Horses.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baby You Don't Know",
+      "artist": "Crazy Town",
+      "has_synced": false,
+      "path": "select/10_Baby_You_Don't_Know_Crazy_Town.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baby You Still Got It",
+      "artist": "Captain & Tennille",
+      "has_synced": false,
+      "path": "select/11_Baby_You_Still_Got_It_Captain_&_Tennille.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Baby You Still Got It (Album Version)",
+      "artist": "Captain & Tennille",
+      "has_synced": false,
+      "path": "select/12_Baby_You_Still_Got_It_(Album_Version)_Captain_&_Tennille.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "My Baby You",
+      "artist": "Marc Anthony",
+      "has_synced": true,
+      "path": "select/13_My_Baby_You_Marc_Anthony.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "My Baby You (Album Version)",
+      "artist": "Marc Anthony",
+      "has_synced": true,
+      "path": "select/14_My_Baby_You_(Album_Version)_Marc_Anthony.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Baby, You Make Me Crazy",
+      "artist": "Sam Smith",
+      "has_synced": true,
+      "path": "select/15_Baby,_You_Make_Me_Crazy_Sam_Smith.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Baby You Belong",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/16_Baby_You_Belong_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Baby You Know",
+      "artist": "The O'Jays",
+      "has_synced": true,
+      "path": "select/17_Baby_You_Know_The_O'Jays.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Baby I Am",
+      "artist": "Dalton Dover",
+      "has_synced": true,
+      "path": "select/18_Baby_I_Am_Dalton_Dover.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Baby Jane",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/19_Baby_Jane_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Brown Eyes Baby",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/20_Brown_Eyes_Baby_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Brown Eyes Baby",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/21_Brown_Eyes_Baby_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "artist": "DJ Khaled feat. Drake & Lil Baby",
+      "has_synced": true,
+      "path": "select/22_STAYING_ALIVE_(feat._Drake_&_Lil_Baby)_DJ_Khaled_feat._Drake_&_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Somebody's Baby",
+      "artist": "Jackson Browne",
+      "has_synced": false,
+      "path": "select/23_Somebody's_Baby_Jackson_Browne.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "ily (i love you baby) [feat. Emilee]",
+      "artist": "Surf Mesa",
+      "has_synced": true,
+      "path": "select/24_ily_(i_love_you_baby)_[feat._Emilee]_Surf_Mesa.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Baby, Baby (I Know You're a Lady)",
+      "artist": "David Houston",
+      "has_synced": false,
+      "path": "select/25_Baby,_Baby_(I_Know_You're_a_Lady)_David_Houston.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Baby Blue",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/26_Baby_Blue_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Baby Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/27_Baby_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Baby Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/28_Baby_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Baby Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/29_Baby_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Baby Girl - 2nd Version/Remix/Album Version",
+      "artist": "Sugarland",
+      "has_synced": true,
+      "path": "select/30_Baby_Girl_-_2nd_Version_Remix_Album_Version_Sugarland.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Baby I Lied",
+      "artist": "Deborah Allen",
+      "has_synced": false,
+      "path": "select/31_Baby_I_Lied_Deborah_Allen.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Baby I Will",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/32_Baby_I_Will_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Baby I Will (Album Version)",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/33_Baby_I_Will_(Album_Version)_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Baby Likes to Rock It",
+      "artist": "The Tractors",
+      "has_synced": true,
+      "path": "select/34_Baby_Likes_to_Rock_It_The_Tractors.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Baby Ride Easy (with June Carter Cash)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/35_Baby_Ride_Easy_(with_June_Carter_Cash)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Baby Ride Easy",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/36_Baby_Ride_Easy_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "Baby, Now That I've Found You",
+      "artist": "Alison Krauss",
+      "has_synced": true,
+      "path": "select/37_Baby,_Now_That_I've_Found_You_Alison_Krauss.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Baby you",
+      "artist": "有華",
+      "has_synced": false,
+      "path": "select/pl_01_Baby_you_有華.txt"
+    }
+  ]
+}
